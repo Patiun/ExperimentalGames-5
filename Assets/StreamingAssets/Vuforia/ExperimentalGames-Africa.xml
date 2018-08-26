@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="SAmerica-1" size="100.000000 100.000000" />
-    <ImageTarget name="NAmerica-1" size="100.000000 100.000000" />
-    <ImageTarget name="Europe-1" size="100.000000 100.000000" />
-    <ImageTarget name="Austrailia-1" size="100.000000 100.000000" />
-    <ImageTarget name="Asia-1" size="100.000000 100.000000" />
-    <ImageTarget name="Africa-1" size="100.000000 100.000000" />
+    <ImageTarget name="SAmerica-QR" size="100.000000 100.000000" />
+    <ImageTarget name="NAmerica-QR" size="100.000000 100.000000" />
+    <ImageTarget name="Europe-QR" size="100.000000 100.000000" />
+    <ImageTarget name="Austrailia-QR" size="100.000000 100.000000" />
+    <ImageTarget name="Asia-QR" size="100.000000 100.000000" />
+    <ImageTarget name="Africa-QR" size="100.000000 100.000000" />
   </Tracking>
 </QCARConfig>
