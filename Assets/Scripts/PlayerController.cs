@@ -22,14 +22,14 @@ public class PlayerController : MonoBehaviour {
             StartCoroutine(NoMoreSpace());
         }
         if(Input.GetKey(KeyCode.W)){
-            movementVector += Vector3.up * speed;
+            movementVector += Vector3.forward * speed;
         }
         if (Input.GetKey(KeyCode.A)){
             movementVector += Vector3.left * speed;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            movementVector += Vector3.down * speed;
+            movementVector += Vector3.forward * -speed;
         }
         if (Input.GetKey(KeyCode.D))
         {
