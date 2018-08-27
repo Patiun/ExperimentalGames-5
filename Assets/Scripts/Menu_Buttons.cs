@@ -16,7 +16,7 @@ public class Menu_Buttons : MonoBehaviour {
 	}
 
     public void StartGame(){
-        //SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene("MainScene");
     }
 
     public void ViewControls(){
